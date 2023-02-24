@@ -1,4 +1,12 @@
-### Hi there 👋
+### 🔥The passionate Beginner!🔥
+
+<h2 align='left'> 오늘보다 더 나은 내일이면 돼! </h2>
+<h2 align='left'> 코딩은 지금이야!🌅 </h2>
+
+
+
+
+
 
 <!--
 **RINORINORINORINO/RINORINORINORINO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
