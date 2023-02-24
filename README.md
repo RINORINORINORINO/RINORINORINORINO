@@ -1,7 +1,7 @@
 ### 🔥The passionate Beginner!🔥
 
-<h3 align='left'> 오늘보다 더 나은 내일이면 돼! </h3>
-<h3 align='left'> 코딩은 지금이야!🌅 </h3>
+<h2 align='left'> 오늘보다 더 나은 내일이면 돼! 코딩은 지금이야! 🌅 </h3>
+<h3 align='left'> 언젠가 인정받는 개발자가 되겠습니다 Let's go! </h3>
 
 
 
